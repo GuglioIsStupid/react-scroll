@@ -1,0 +1,1 @@
+export declare const {  Link, Button, Element, scroller, Events, scrollSpy, animateScroll, ScrollLink, ScrollElement, Helpers }: ReactScroll;
